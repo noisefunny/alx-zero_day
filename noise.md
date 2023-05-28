@@ -1,4 +1,24 @@
 0x11. C - printf
+**[https://iwww.alxafrica.com](https://intranet.alxswe.com/projects/228#task-970)**
+================
+
+full
+-   Contributors to this project, Imane Elaceri && Fatimazahralachkar
+-   ©This project upload by : Imane47250 and fatimazahralachkar
+-   Porject was studied before working on it through alxafrica [link project](https://intranet.alxswe.com/projects/228#task-970)
+-   My email and email my partner for more details or help 
+-   elaceriimane@gmail.com
+-   fatima6lachkar@gmail.com
+-   instagram [Imane](https://www.instagram.com/imane_elaceri/) , -    [fatimaezzahra_lachkar](https://www.instagram.com/fatimaezzahra_lachkar/)
+
+Background Context 
+------------------
+Animation published by noiseworking
+
+
+![](hhttps://i.pinimg.com/originals/23/7f/0c/237f0ca95af2dfd1e4487f7cb6665171.gif)
+
+*^ “picture”, by [𝓢𝓪𝔀𝓼𝓪𝓷](https://www.instagram.com/imane_elaceri/")* 
 ================
 -   By Julien Barbier, co-founder & CEO
 
@@ -11,7 +31,7 @@ For this project, we expect you to look at these concepts:
 -   [Flowcharts](https://intranet.alxswe.com/concepts/130 "Flowcharts")
 -   [Technical Writing](https://intranet.alxswe.com/concepts/225 "Technical Writing")
 
-Background Context
+Background Context #1
 ------------------
 
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/228/printf.png)
@@ -29,7 +49,7 @@ Resources
 
 **man or help**:
 
--    [printf (3)]( "printf (3)")
+-    printf (3)
 
 ------------
 
@@ -50,7 +70,7 @@ Resources
 -   All your header files should be include guarded
 -   Note that we will not provide the _putchar function for this project
 
-**GitHub**
+### GitHub
 
 *There should be one project repository per group. The other members do not fork or clone the project to ensure only one of the team has the repository in their github account otherwise you risk scoring 0%*
 
@@ -78,9 +98,8 @@ $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
 -   Our main files will include your main header file (main.h): #include main.h
 -   You might want to look at the gcc flag -Wno-format when testing with your _printf and the standard printf. Example of test file that you could use:
 ```
-/**
- * $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
- #include <limits.h>
+$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
+#include <limits.h>
 #include <stdio.h>
 #include "main.h"
 
@@ -139,4 +158,29 @@ Unsigned octal:[20000001777]
 Unsigned hexadecimal:[800003ff, 800003FF]
 Unsigned hexadecimal:[800003ff, 800003FF]
 Character:[H]
+Character:[H]
+String:[I am a string !]
+String:[I am a string !]
+Address:[0x7ffe637541f0]
+Address:[0x7ffe637541f0]
+Percent:[%]
+Percent:[%]
+Len:[12]
+Len:[12]
+Unknown:[%r]
+Unknown:[%r]
+alex@ubuntu:~/c/printf$
+``` 
+-   We strongly encourage you to work all together on a set of tests
+-   If the task does not specify what to do with an edge case, do the same as printf
 
+**Copyright - Plagiarism**
+
+-   You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
+-   You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
+-   You are not allowed to publish any content of this project.
+-   Any form of plagiarism is strictly forbidden and will result in removal from the program.
+
+ **This work is authored by : **
+-   [Imane Elaceri](https://www.instagram.com/imane_elaceri/)
+-   [Fatimazahralachkar](https://www.instagram.com/fatimaezzahra_lachkar/)
