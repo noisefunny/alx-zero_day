@@ -1,7 +1,7 @@
 **[https://www.alxafrica.com](https://intranet.alxswe.com/projects/228#task-970)** **0x11. C - printf**
--   By Julien Barbier, co-founder & CEO
 ================
 
+-   By Julien Barbier, co-founder & CEO
 -   Contributors to this project, Imane Elaceri && Fatimazahralachkar 
 -   ©This project uploaded by : [Enamiimane
 ](https://github.com/Imane47250) , [Lachkar](https://github.com/Fatimazahralachkar)
