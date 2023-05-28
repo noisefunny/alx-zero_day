@@ -3,13 +3,16 @@
 ================
 
 full
--   Contributors to this project, Imane Elaceri && Fatimazahralachkar
--   ©This project upload by : Imane47250 and fatimazahralachkar
+-   Contributors to this project, Imane Elaceri && Fatimazahralachkar 
+-   ©This project upload by : [Enamiimane
+](https://github.com/Imane47250) , [Lachkar](https://github.com/Fatimazahralachkar)
 -   Porject was studied before working on it through alxafrica [link project](https://intranet.alxswe.com/projects/228#task-970)
 -   My email and email my partner for more details or help 
--   elaceriimane@gmail.com
--   fatima6lachkar@gmail.com
--   instagram [Imane](https://www.instagram.com/imane_elaceri/) , -    [fatimaezzahra_lachkar](https://www.instagram.com/fatimaezzahra_lachkar/)
+```
+fatima6lachkar@gmail.com
+elaceriimane@gmail.com
+``` 
+-   Our Instagram account [𝓢𝓐𝓦𝓢𝓐𝓝](https://www.instagram.com/imane_elaceri/) , [𝓥𝓐𝓝𝓔𝓢𝓢𝓐](https://www.instagram.com/fatimaezzahra_lachkar/)
 
 Background Context 
 ------------------
