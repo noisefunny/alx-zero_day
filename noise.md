@@ -1,8 +1,6 @@
-0x11. C - printf
-**[https://iwww.alxafrica.com](https://intranet.alxswe.com/projects/228#task-970)**
+**[https://iwww.alxafrica.com](https://intranet.alxswe.com/projects/228#task-970)** **0x11. C - printf**
 ================
 
-full
 -   Contributors to this project, Imane Elaceri && Fatimazahralachkar 
 -   ©This project upload by : [Enamiimane
 ](https://github.com/Imane47250) , [Lachkar](https://github.com/Fatimazahralachkar)
@@ -16,10 +14,10 @@ elaceriimane@gmail.com
 
 Background Context 
 ------------------
-Animation published by noiseworking
+Animation published by Enamiimane
 
 
-![](hhttps://i.pinimg.com/originals/23/7f/0c/237f0ca95af2dfd1e4487f7cb6665171.gif)
+![](https://media.tenor.com/_Eng0LkAtioAAAAC/anime-girl.gif)
 
 *^ “picture”, by [𝓢𝓪𝔀𝓼𝓪𝓷](https://www.instagram.com/imane_elaceri/")* 
 ================
